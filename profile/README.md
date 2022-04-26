@@ -10,3 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+### 👩‍💻 Useful resources
+
+- [Ventizo Store](https://store.ventizo.com/)
+- [Ventizo Support](https://support.ventizo.com/)
+- [Ventizo Status](https://status.ventizo.com/)
